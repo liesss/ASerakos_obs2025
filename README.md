@@ -1,0 +1,1 @@
+4/2/2025: There scripts were written by A. Serakos in NCAR Command Language (ncl) https://www.ncl.ucar.edu/ for the manuscript "Quantifying the Modes of Natural Climate Variability over North America".
